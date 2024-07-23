@@ -61,7 +61,7 @@ This application consists of an HTML file with corresponding JavaScript that han
 
 ### Author
 
-- Created by Manasseh
+- Created by Shannice
 
 ### License
 
